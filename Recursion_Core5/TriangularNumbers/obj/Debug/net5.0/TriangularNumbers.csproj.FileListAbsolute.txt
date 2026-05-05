@@ -1,0 +1,16 @@
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\bin\Debug\net5.0\TriangularNumbers.exe
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\bin\Debug\net5.0\TriangularNumbers.deps.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\bin\Debug\net5.0\TriangularNumbers.runtimeconfig.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\bin\Debug\net5.0\TriangularNumbers.runtimeconfig.dev.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\bin\Debug\net5.0\TriangularNumbers.dll
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\bin\Debug\net5.0\TriangularNumbers.pdb
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.AssemblyInfoInputs.cache
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.AssemblyInfo.cs
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.csproj.CoreCompileInputs.cache
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.sourcelink.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.dll
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\refint\TriangularNumbers.dll
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.pdb
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.genruntimeconfig.cache
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\ref\TriangularNumbers.dll

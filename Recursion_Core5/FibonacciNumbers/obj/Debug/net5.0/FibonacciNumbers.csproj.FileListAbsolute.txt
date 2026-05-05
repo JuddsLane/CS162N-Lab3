@@ -1,0 +1,16 @@
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\bin\Debug\net5.0\FibonacciNumbers.exe
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\bin\Debug\net5.0\FibonacciNumbers.deps.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\bin\Debug\net5.0\FibonacciNumbers.runtimeconfig.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\bin\Debug\net5.0\FibonacciNumbers.runtimeconfig.dev.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\bin\Debug\net5.0\FibonacciNumbers.dll
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\bin\Debug\net5.0\FibonacciNumbers.pdb
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\obj\Debug\net5.0\FibonacciNumbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\obj\Debug\net5.0\FibonacciNumbers.AssemblyInfoInputs.cache
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\obj\Debug\net5.0\FibonacciNumbers.AssemblyInfo.cs
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\obj\Debug\net5.0\FibonacciNumbers.csproj.CoreCompileInputs.cache
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\obj\Debug\net5.0\FibonacciNumbers.sourcelink.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\obj\Debug\net5.0\FibonacciNumbers.dll
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\obj\Debug\net5.0\refint\FibonacciNumbers.dll
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\obj\Debug\net5.0\FibonacciNumbers.pdb
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\obj\Debug\net5.0\FibonacciNumbers.genruntimeconfig.cache
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\FibonacciNumbers\obj\Debug\net5.0\ref\FibonacciNumbers.dll
