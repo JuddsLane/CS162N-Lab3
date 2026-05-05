@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 
 namespace Palindromes
 {
@@ -6,7 +7,9 @@ namespace Palindromes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Enter a string: ");
+            string userString = Regex.Replace(Console.ReadLine(), "[^a-zA-Z0-9]", "");
+            Console.WriteLine((IsPalindrome(userString) == true) ? "String is a palindrome" : "String is not a palindrome");
 
             static bool IsPalindrome(string s)
             {

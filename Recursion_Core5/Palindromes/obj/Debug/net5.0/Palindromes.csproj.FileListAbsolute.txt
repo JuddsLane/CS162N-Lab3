@@ -1,0 +1,16 @@
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\bin\Debug\net5.0\Palindromes.exe
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\bin\Debug\net5.0\Palindromes.deps.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\bin\Debug\net5.0\Palindromes.runtimeconfig.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\bin\Debug\net5.0\Palindromes.runtimeconfig.dev.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\bin\Debug\net5.0\Palindromes.dll
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\bin\Debug\net5.0\Palindromes.pdb
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.AssemblyInfoInputs.cache
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.AssemblyInfo.cs
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.csproj.CoreCompileInputs.cache
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.sourcelink.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.dll
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\obj\Debug\net5.0\refint\Palindromes.dll
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.pdb
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.genruntimeconfig.cache
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\Palindromes\obj\Debug\net5.0\ref\Palindromes.dll
