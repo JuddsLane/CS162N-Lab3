@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\Palindromes\\Palindromes.csproj": {}
+    "C:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\Palindromes\\Palindromes.csproj": {}
   },
   "projects": {
-    "c:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\Palindromes\\Palindromes.csproj": {
+    "C:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\Palindromes\\Palindromes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\Palindromes\\Palindromes.csproj",
+        "projectUniqueName": "C:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\Palindromes\\Palindromes.csproj",
         "projectName": "Palindromes",
-        "projectPath": "c:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\Palindromes\\Palindromes.csproj",
+        "projectPath": "C:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\Palindromes\\Palindromes.csproj",
         "packagesPath": "C:\\Users\\L00733160\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\Palindromes\\obj\\",
+        "outputPath": "C:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\Palindromes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

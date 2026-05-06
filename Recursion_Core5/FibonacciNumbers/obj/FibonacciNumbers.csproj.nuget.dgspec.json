@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj": {}
+    "C:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj": {}
   },
   "projects": {
-    "c:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj": {
+    "C:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj",
         "projectName": "FibonacciNumbers",
-        "projectPath": "c:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj",
+        "projectPath": "C:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj",
         "packagesPath": "C:\\Users\\L00733160\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\FibonacciNumbers\\obj\\",
+        "outputPath": "C:\\Users\\L00733160\\Desktop\\College\\CIS161N\\Lab3\\CS162N-Lab3\\Recursion_Core5\\FibonacciNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

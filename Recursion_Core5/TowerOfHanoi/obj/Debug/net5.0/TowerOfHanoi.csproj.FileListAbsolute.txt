@@ -1,0 +1,16 @@
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\bin\Debug\net5.0\TowerOfHanoi.exe
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\bin\Debug\net5.0\TowerOfHanoi.deps.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\bin\Debug\net5.0\TowerOfHanoi.runtimeconfig.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\bin\Debug\net5.0\TowerOfHanoi.runtimeconfig.dev.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\bin\Debug\net5.0\TowerOfHanoi.dll
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\bin\Debug\net5.0\TowerOfHanoi.pdb
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\obj\Debug\net5.0\TowerOfHanoi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\obj\Debug\net5.0\TowerOfHanoi.AssemblyInfoInputs.cache
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\obj\Debug\net5.0\TowerOfHanoi.AssemblyInfo.cs
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\obj\Debug\net5.0\TowerOfHanoi.csproj.CoreCompileInputs.cache
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\obj\Debug\net5.0\TowerOfHanoi.sourcelink.json
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\obj\Debug\net5.0\TowerOfHanoi.dll
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\obj\Debug\net5.0\refint\TowerOfHanoi.dll
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\obj\Debug\net5.0\TowerOfHanoi.pdb
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\obj\Debug\net5.0\TowerOfHanoi.genruntimeconfig.cache
+c:\Users\L00733160\Desktop\College\CIS161N\Lab3\CS162N-Lab3\Recursion_Core5\TowerOfHanoi\obj\Debug\net5.0\ref\TowerOfHanoi.dll
